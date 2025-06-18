@@ -13,39 +13,40 @@ Qnect is a dynamic discussion platform where users can ask questions, share know
 - Latest Questions Feed
 - Responsive Design
 
-## Website Screenshots and Images
+##Project Screenshots
 
-### Required Images
-1. **Logo**
-   - File: `public/logo.png`
-   - Size: 70px height (minimum)
-   - Format: PNG with transparent background
-   - Purpose: Main website logo in header
+## Project Screenshots
 
-2. **Screenshots**
-   - Directory: `public/images/screenshots/`
-   - Required screenshots:
-     - Home page
-     - Question listing
-     - Question details
-     - Ask question form
-     - Login/Signup pages
-   - Format: PNG or JPG
-   - Size: 1200px width (minimum)
-   - Purpose: Documentation and README display
+### 🏠 Home Page
+![Home](public/images/home.png)
 
-3. **Additional Images**
-   - Directory: `public/images/`
-   - Categories icons (if any)
-   - User avatars (if any)
-   - Other UI elements
+### 🔐 Login Page
+![Login](public/images/login.png)
 
-### Image Guidelines
-- Use high-quality, clear images
-- Optimize images for web (compress without losing quality)
-- Maintain consistent aspect ratios
-- Use descriptive filenames
-- Keep file sizes under 500KB when possible
+### 📝 Signup Page
+![Signup](public/images/signup.png)
+
+### 🙋 Ask a Question
+![Ask Question](public/images/askquestion.png)
+
+### 🙋 Ask a Question - Detailed
+![Ask Question 2](public/images/askquestion2.png)
+
+### 🔍 Search Questions
+![Search](public/images/search.png)
+
+### ❓ View a Question & Answers
+![Answer Question](public/images/answerqn.png)
+
+### 🧾 Add an Answer
+![Add Answer](public/images/ansqn.png)
+
+### 🙋 My Questions Page
+![My Questions](public/images/myqns.png)
+
+### 👤 Logged In View
+![Logged In](public/images/loggedin.png)
+
 
 ## Prerequisites
 
@@ -85,15 +86,7 @@ git clone [repository-url]
      $database = "discuss";
      ```
 
-6. Add Required Images:
-   - Place your website logo in `public/logo.png`
-   - Recommended logo size: 70px height (minimum)
-   - Supported formats: PNG, JPG, SVG
-   - Ensure the logo has a transparent background for better header integration
-   - Add any additional images to the `public/images/` directory
-   - Update image paths in the code if using different filenames
-
-7. Access the website:
+6. . Access the website:
    - Open your web browser
    - Navigate to `http://localhost/phpdiscussion`
 
@@ -142,14 +135,4 @@ phpdiscussion/
    - Search for specific questions using the search bar
    - View latest questions using the "Latest Questions" option
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, please open an issue in the repository or contact the development team. 
+Created by @mohanabandlamudi
