@@ -18,34 +18,35 @@ Qnect is a dynamic discussion platform where users can ask questions, share know
 ## Project Screenshots
 
 ### 🏠 Home Page
-![Home](public/images/home.png)
+<img src="public/images/home.png" alt="Home" width="600"/>
 
 ### 🔐 Login Page
-![Login](public/images/login.png)
+<img src="public/images/login.png" alt="Login" width="600"/>
 
 ### 📝 Signup Page
-![Signup](public/images/signup.png)
+<img src="public/images/signup.png" alt="Signup" width="600"/>
 
 ### 🙋 Ask a Question
-![Ask Question](public/images/askquestion.png)
+<img src="public/images/askquestion.png" alt="Ask Question" width="600"/>
 
 ### 🙋 Ask a Question - Detailed
-![Ask Question 2](public/images/askquestion2.png)
+<img src="public/images/askquestion2.png" alt="Ask Question 2" width="600"/>
 
 ### 🔍 Search Questions
-![Search](public/images/search.png)
+<img src="public/images/search.png" alt="Search" width="600"/>
 
 ### ❓ View a Question & Answers
-![Answer Question](public/images/answerqn.png)
+<img src="public/images/answerqn.png" alt="Answer Question" width="600"/>
 
 ### 🧾 Add an Answer
-![Add Answer](public/images/ansqn.png)
+<img src="public/images/ansqn.png" alt="Add Answer" width="600"/>
 
 ### 🙋 My Questions Page
-![My Questions](public/images/myqns.png)
+<img src="public/images/myqns.png" alt="My Questions" width="600"/>
 
 ### 👤 Logged In View
-![Logged In](public/images/loggedin.png)
+<img src="public/images/loggedin.png" alt="Logged In" width="600"/>
+
 
 
 ## Prerequisites
